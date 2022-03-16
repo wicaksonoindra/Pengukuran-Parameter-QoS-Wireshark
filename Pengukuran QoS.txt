@@ -1,0 +1,23 @@
+Parameter QoS
+
+> Throughput = Jumlah Bytes : Time Span
+	     = 19735075 Bytes : 202.428 s
+	     = 97491 Bytes
+	     = 97,491 KB/s
+	     = 97,491 x 8
+	     = 779 Kb/s
+
+> Packet Loss = ((Paket Dikirim -  Paket Diterima)/Paket Dikirim) x 100
+	      = ((19364 - (19364-11))/19364)x 100
+	      = ((19364 - 19353)/19364)x 100
+	      = (11/19364)x 100
+	      = 0,0568
+> Delay:
+ - Total Delay = 197,9541 s
+ - Rata-rata Delay = 0,010224902 s = 10,22 ms
+
+> Jitter
+ - Total Jitter = 197,93418 s
+ - Rata-rata Jitter = 0,010223873 s = 10,22 ms
+
+
